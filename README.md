@@ -1,2 +1,3 @@
-Howdy howdy! I'm Dreki's dev, Recila, and I'm dying constantly!!
-New to programming and working primarily with JavaScript, try not to expect much!
+Howdy howdy! I'm Dreki's dev, DrekiDEV! (Or Recila, I guess.)
+
+If you want the gold, head to DREKI! Otherwise, ah... there's not much else here.
